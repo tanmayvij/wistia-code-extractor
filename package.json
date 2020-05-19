@@ -1,0 +1,6 @@
+{
+    "name": "wistia_code_extractor",
+    "dependencies": {
+        "express": "4.17.1"
+    }
+}
